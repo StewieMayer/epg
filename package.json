@@ -1,6 +1,6 @@
 {
   "name": "epg",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Claro Video EPG Clone",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "prepare": "husky"
   },
   "keywords": [],
-  "author": "",
+  "author": "Stewie Mayer (Antonio Amaya)",
   "license": "ISC",
   "lint-staged": {
     "*.{js,jsx,ts,tsx,css,md}": [
